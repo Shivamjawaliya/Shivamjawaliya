@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/u/Shivam_jawaliya_/">
     <img src="https://img.shields.io/badge/LeetCode-Knight_1881-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/sk7149364](https://www.codechef.com/users/shivam_7060">
+  <a href="https://www.codechef.com/users/shivam_7060">
     <img src="https://img.shields.io/badge/CodeChef-4★_1851-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://shivamjawaliyportfolio.vercel.app/">
